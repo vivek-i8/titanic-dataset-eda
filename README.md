@@ -1,4 +1,4 @@
-# Titanic Data Cleaning and Visualization
+# Titanic Dataset EDA
 
 This project does basic data cleaning and exploratory data analysis (EDA) on the Titanic dataset.
 
